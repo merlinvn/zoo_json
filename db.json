@@ -1,0 +1,11 @@
+{
+  "businessInfos": [
+    {
+      "id": 1,
+      "name": "Chao Lua",
+      "address": "123 Abc Def Ghi",
+      "ward": "1",
+      "district": "12"
+    }
+  ]
+}
